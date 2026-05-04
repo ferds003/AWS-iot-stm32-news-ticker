@@ -21,7 +21,7 @@ The STM32 sends an HTTP GET request (via AT commands through the ESP32) to a new
 
 ---
 
-## Key feattures
+## Key features
 
 - How to use a secondary MCU (ESP32) as a network co-processor via AT commands — a common pattern in cost-constrained IoT products
 - Designing a reliable UART communication layer between two microcontrollers, including handling timing, buffering, and error recovery
